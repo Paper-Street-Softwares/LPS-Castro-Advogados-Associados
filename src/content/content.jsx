@@ -150,7 +150,6 @@ const content = {
                 stroke="currentColor"
                 strokeWidth="2"
                 fill="none"
-              />
             </svg>
           </span> */}
         </span>
@@ -174,7 +173,7 @@ const content = {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
         text: "Atendimento 100% online e sigiloso",
-        textTwo: "Com orientação de advogada especializada",
+        textTwo: "Com orientação de advocacia especializada",
       },
       secondaryCta: "Contato",
       images: {
@@ -515,35 +514,35 @@ const content = {
             <span className="border-2 rounded-full p-1">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Orientação clara sobre seus direitos no divórcio
+            Análise gratuita do seu caso
           </div>
           <div className="flex items-start gap-2 mx-auto">
             {" "}
             <span className="border-2 rounded-full p-1">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Atendimento humanizado e sigiloso com Advogada especializada
+            Atendimento direto com o Advogado, sem intermediários
           </div>
           <div className="flex items-start gap-2 mx-auto">
             {" "}
             <span className="border-2 rounded-full p-1">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Divórcio online, sem audiências e sem desgaste emocional
+            Resposta rápida e acompanhamento pelo WhatsApp
           </div>
           <div className="flex items-start gap-2 mx-auto">
             {" "}
             <span className="border-2 rounded-full p-1">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Acompanhamento rápido pelo WhatsApp, do início ao fim
+            Processo iniciado no mesmo dia da análise
           </div>
           <div className="flex items-start gap-2 mx-auto">
             {" "}
             <span className="border-2 rounded-full p-1">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Segurança para encerrar esse ciclo e seguir em frente
+            Você mais perto de receber o que é seu, sem sair de casa
           </div>
         </div>
       ),
@@ -574,24 +573,24 @@ const content = {
       subtitle: "Confira as perguntas abaixo para esclarecer suas dúvidas. ",
       questions: {
         question1: {
-          question: "Preciso sair de casa?",
+          question: "Como posso contratar seus serviços?",
           answer:
-            "Não. Todo o processo pode ser feito 100% online, sem deslocamentos, filas ou desgaste desnecessário. Você resolve tudo com segurança e conforto, de onde estiver.",
+            "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos.",
         },
         question2: {
-          question: "Quanto tempo demora?",
+          question: "Qual é o prazo médio para resolução de um caso?",
           answer:
-            "O prazo varia conforme o tipo de divórcio, mas em muitos casos o processo é rápido e pode ser iniciado no mesmo dia após a análise da documentação.",
+            "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial.",
         },
         question3: {
-          question: "Precisa de audiência?",
+          question: "Quais documentos devo levar para a consulta?",
           answer:
-            "Na maioria dos casos, não. O divórcio pode ser resolvido sem audiências, evitando exposição e situações desconfortáveis.",
+            "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência.",
         },
         question4: {
-          question: "Posso me divorciar mesmo sem acordo total?",
+          question: "Vocês oferecem serviços de consultoria preventiva?",
           answer:
-            "Sim. Mesmo sem acordo em todos os pontos, é possível dar entrada no divórcio. Cada caso é analisado com cuidado para garantir seus direitos e a melhor solução possível.",
+            "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal.",
         },
       },
 
