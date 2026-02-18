@@ -368,8 +368,14 @@ const content = {
       FirstPart: <span> Por que escolher </span>,
       Destaque: <span className="italic font-light"> nosso escritório?</span>,
       SecondPart: <span></span>,
-      subtitle:
-        "Fundado em 2019 pela Dra. Geovana Castro da Costa — OAB/MT n. 27.016/O e atualmente funcionando sob a gestão da Dra. Thanielly Castro Ramos — OAB/MT n. 27.913/O, nosso compromisso é tornar esse momento mais leve, rápido e seguro para você.",
+      subtitle: (
+        <p className="text-justify">
+          Fundado em 2019 pela Dra. Geovana Castro da Costa — OAB/MT n. 27.016/O
+          e atualmente funcionando sob a gestão da Dra. Thanielly Castro Ramos —
+          OAB/MT n. 27.913/O, nosso compromisso é tornar esse momento mais leve,
+          rápido e seguro para você."
+        </p>
+      ),
       paragraph: (
         <div>
           <ul>
